@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+
+torch_ext_build/
+*.hsaco
+*.o
+
+.pytest_cache/
